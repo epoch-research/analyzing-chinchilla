@@ -4,6 +4,6 @@ Repository for [Epoch AI's replication attempt](https://epochai.org/blog/chinchi
 
 # TODO
 
-[] dependency managing
-[] README: how to setup and run
-[] README: additional context
+* [ ] dependency management
+* [ ] README: how to set up and run
+* [ ] README: additional context
