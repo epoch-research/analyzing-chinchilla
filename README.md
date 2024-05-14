@@ -4,7 +4,7 @@ Repository for [Epoch AI's replication attempt](https://epochai.org/blog/chinchi
 
 You can find the analysis in the `data_analysis.ipynb` notebook. If you want to rerun the data extraction process, you can run the `data_extraction.ipynb` notebook.
 
-# File structure
+# Repository structure
 
   * `chinchilla_figure_4.svg`: The figure from the original paper. We extract a subset of the original dataset from this figure.
   * `data_extraction.ipynb`: The notebook used to extract the data from the figure.
